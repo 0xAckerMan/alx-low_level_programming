@@ -9,8 +9,8 @@
 
 int main(void)
 {
-char i[26];
-char j[26];
+char i;
+char j;
 
 for (i = 'a'; i <= 'z'; i++)
 {
